@@ -2,7 +2,7 @@
 
 Hi!, I'm Aingthawan.
 
-  Curently in second year of studying bachelor degree in Computer Engineering (CprE.) 
+  Curently studying bachelor degree in Computer Engineering (CprE.) 
 at king mongkut's university of technology north bangkok (KMUTNB), Thailand.
 
 ### Bio
