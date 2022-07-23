@@ -19,5 +19,7 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egkrxkiUnoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Test : Link to new markdown page
-[CHICK HERE! bing chilling!](another-page.md)
+
+
+
+[🍦](another-page.md)
