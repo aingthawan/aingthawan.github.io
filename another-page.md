@@ -5,7 +5,7 @@
 ### Test : New Page 1
 
 
-[![Zhong Xina](![image](https://user-images.githubusercontent.com/109336369/180613454-e55d7468-1c07-45b9-b662-8d50ad42c5c9.png))](https://youtu.be/sxT5bnowzcU)
+[![Zhong Xina](![image]((https://user-images.githubusercontent.com/109336369/180613478-63915977-5cca-4b15-b783-329f8255cb30.png)))](https://youtu.be/sxT5bnowzcU)
 
 
 Mr.Zhong Xina and his bing chilling
