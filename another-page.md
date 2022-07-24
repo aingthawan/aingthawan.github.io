@@ -1,4 +1,4 @@
-[🢀 Back to Main page](index.md)
+[🢀 Back to Previous Page](./)
 
 # HA! Got da new page Damwit :)
 
