@@ -16,9 +16,9 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 >"My mama always said, 'Life was like a box of chocolates. **You never know what you're gonna get.**'" \
 >-Forrest Gump
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/egkrxkiUnoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="178" src="https://www.youtube.com/embed/egkrxkiUnoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br/><br/><br/>
 ## WORK UPDATE
 
 [🢂 (010123131) Software Development Practice Content](./softwaredev_content_index.md)
