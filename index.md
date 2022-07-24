@@ -10,14 +10,13 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 - Date of Birth : 16 September 2001 [Age : 20 Yrs]
 - Living : Bangkok, Thailand 
 
-<br/>
 
 >### My Favorite Quote
 >
 >"My mama always said, 'Life was like a box of chocolates. **You never know what you're gonna get.**'" \
 >-Forrest Gump
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egkrxkiUnoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/egkrxkiUnoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## WORK UPDATE
@@ -25,5 +24,5 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 [🢂 (010123131) Software Development Practice Content](./softwaredev_content_index.md)
 
 
-
+<br/><br/><br/><br/><br/><br/><br/>
 [🍦](another-page.md)
