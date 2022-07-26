@@ -50,4 +50,29 @@ wsl -l -v
   * [Visit for more basic command for WSL](./https://docs.microsoft.com/en-us/windows/wsl/basic-commands)
   * [Visit microsoft website for more details and reference about this part](./https://docs.microsoft.com/en-us/windows/wsl/install)
 
-### Part 2 : Install Ubuntu on WSL ( Ubuntu 22.04 LTS )
+ 
+ 
+
+## Part 2 : Install Ubuntu on WSL ( Ubuntu 22.04 LTS )
+
+1. After you installed WSL2, You can choose a version of Ubuntu to install on Microsft Store. For me, I'm choosing **Ubuntu 22.04 LTS**
+ ![image](https://user-images.githubusercontent.com/109336369/180999817-1795faa9-574d-4028-a2f8-5469edf8f791.png)
+
+2. Do the installation.
+ ![image](https://user-images.githubusercontent.com/109336369/181000091-a8116659-66a1-4b9f-99ae-f32921f8a7bc.png)
+
+3. Once you done an installation, Run following commands to get the latest version of the software
+ ```
+ $ sudo apt update 
+ ```
+ ```
+ $ sudo apt upgrade 
+ ```
+
+# Now restart your software once, **DONE! YOUR LINUX IS READY!**
+ ![image](https://user-images.githubusercontent.com/109336369/181001846-9b68d1e9-af09-4ab8-b4c1-82a8605b7c43.png)
+
+ <br/>
+ 
+ 
+[🢀 Back to Previous Page](./softwaredev_content_index.md)
