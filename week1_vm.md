@@ -62,5 +62,49 @@
 
 ## Part 2 : Create a new Virtual Machine on VMware
 
+> ## Part 2.1 : UBUNTU
+> 
+> For first Virtual Machine, I'm going to use Ubuntu Linux
+
+### 2.1.1. Download Ubuntu
+
+Download ISO file for setup from [Download Ubuntu Desktop | Download | Ubuntu](https://ubuntu.com/download/desktop)
+For me, It's Ubuntu Desktop Version 22.04 LTS
+
+![image](https://user-images.githubusercontent.com/109336369/181437268-8640d1ba-667b-4831-bf44-615a7978900b.png)
+![image](https://user-images.githubusercontent.com/109336369/181437291-27969b2f-74b3-4eb2-8a40-0a52eb8184fb.png)
+
+### 2.1.2. Create a new Virtual Machine
+
+On VMware, click create a new Virtual Machine and enter the location of the Ubuntu ISO file.
+
+![image](https://user-images.githubusercontent.com/109336369/181437605-84ecc2eb-de21-447c-81be-4bd127ca9f43.png)
+
+
+![image](https://user-images.githubusercontent.com/109336369/181437751-244da95c-fb74-4b69-a730-3339add44af3.png)
+
+### 2.1.3. Setup all requirements and Settings
+
+![image](https://user-images.githubusercontent.com/109336369/181437928-e93d9b31-430d-42ae-9f20-e82a1723f850.png)
+![image](https://user-images.githubusercontent.com/109336369/181437950-48b84c42-85d2-443b-9b4a-cad8d7c603e0.png)
+![image](https://user-images.githubusercontent.com/109336369/181437973-33593c0e-dba1-44db-a2a5-6f8f9c22aa31.png)
+![image](https://user-images.githubusercontent.com/109336369/181437998-b201cc16-33eb-411b-8d46-7829a569a246.png)
+
+### 2.1.4. After Installation and boot up, Setup Ubuntu on Virtual Machine.
+
+![image](https://user-images.githubusercontent.com/109336369/181438250-68fcb924-2028-494a-bb23-340b1ef60c8b.png)
+![image](https://user-images.githubusercontent.com/109336369/181438341-013d523c-76ea-4697-965b-1949dd27dc4a.png)
+![image](https://user-images.githubusercontent.com/109336369/181438299-7f86633f-65e9-47ea-8a4a-3332431b9cff.png)
+
+
+### 2.1.5. Finally
+
+Your Ubuntu is ready to use!
+
+![image](https://user-images.githubusercontent.com/109336369/181438587-769562e9-6193-4f37-800f-055858ebfb49.png)
+![image](https://user-images.githubusercontent.com/109336369/181438622-faca7ff5-8b81-4958-b9f2-fe56036d4378.png)
+![image](https://user-images.githubusercontent.com/109336369/181438659-e53d2411-ee62-4410-bc64-5e268ddf5705.png)
+
+
 
 [⇦ Back to Previous Page](./softwaredev_content_index.md)
