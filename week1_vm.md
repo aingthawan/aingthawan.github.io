@@ -25,7 +25,7 @@
 >
 > To Install other version of VMWARE product on same machine, You must uninstall the other version you having on your machine before. 
 
-1. For Virtual Machine I choose is VMWARE, Due to **VMWARE Workstation Player** allowed us to use for **FREE! (FOR NON-COMMERCIAL)** 
+ 1. For Virtual Machine I choose is VMWARE, Due to **VMWARE Workstation Player** allowed us to use for **FREE! (FOR NON-COMMERCIAL)** 
 
 
 ![image](https://user-images.githubusercontent.com/109336369/181414254-66fae416-a5ef-4ed3-88a8-54514935f515.png)
