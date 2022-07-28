@@ -27,7 +27,7 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 
 ## WORK BLOG
 
-[**🢂 (010123131) Software Development Practice Content**](./softwaredev_content_index.md)
+[🢂 (010123131) Software Development Practice Content](./softwaredev_content_index.md)
 
 
 <br/><br/><br/><br/><br/><br/><br/>
