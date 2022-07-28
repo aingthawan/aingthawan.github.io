@@ -25,7 +25,7 @@
 >
 > To Install other version of VMWARE product on same machine, You must uninstall the other version you having on your machine before. 
 
- 1. For Virtual Machine I choose is VMWARE, Due to **VMWARE Workstation Player** allowed us to use for **FREE! (FOR NON-COMMERCIAL)** 
+### 1. For Virtual Machine I choose is VMWARE, Due to **VMWARE Workstation Player** allowed us to use for **FREE! (FOR NON-COMMERCIAL)** 
 
 
 ![image](https://user-images.githubusercontent.com/109336369/181414254-66fae416-a5ef-4ed3-88a8-54514935f515.png)
@@ -33,12 +33,12 @@
 [Download VMWare Workstation](https://www.vmware.com/products/workstation-player.html)
 
 
-2. For my machine, I'm choosing latest product (16.2.4) for **64-bit Windows OS.**
+### 2. For my machine, I'm choosing latest product (16.2.4) for **64-bit Windows OS.**
 
 ![image](https://user-images.githubusercontent.com/109336369/181414646-e4f5b978-22dc-496e-98ce-f23fba7df1a9.png)
  
 
-3. Install The Software.
+### 3. Install The Software.
 
 
  ![image](https://user-images.githubusercontent.com/109336369/181420113-8e5d3502-c43b-4d18-acc1-d7901ddd0c4c.png)
@@ -52,7 +52,7 @@
 
 ![image](https://user-images.githubusercontent.com/109336369/181420357-4b1b8e25-6f87-4b18-a572-a99734225a4a.png)
 
-4. Now your **VMware Workstation 16 Player** ready to use
+### 4. Now your **VMware Workstation 16 Player** ready to use
 
 ![image](https://user-images.githubusercontent.com/109336369/181420654-3c3ec675-bc58-4cbb-a218-827a48259448.png)
 
