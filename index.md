@@ -18,14 +18,16 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 
 <iframe width="500" height="260" src="https://www.youtube.com/embed/egkrxkiUnoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/><br/>
 
 * * *
 
 
 <br/>
+
 ## WORK BLOG
 
-[🢂 (010123131) Software Development Practice Content](./softwaredev_content_index.md)
+[**🢂 (010123131) Software Development Practice Content**](./softwaredev_content_index.md)
 
 
 <br/><br/><br/><br/><br/><br/><br/>
