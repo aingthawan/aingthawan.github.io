@@ -1,4 +1,4 @@
-[🢂 (010123131) Software Development Practice Content](./softwaredev_content_index.md)
+[🢂 (010123131) Software Development Practice Content](./https://aingthawan.github.io/softwaredev_content_index.html)
 
 * * *
 
@@ -59,4 +59,4 @@
 * * *
 
 
-[🢂 (010123131) Software Development Practice Content](./softwaredev_content_index.md)
+[🢂 (010123131) Software Development Practice Content](./https://aingthawan.github.io/softwaredev_content_index.html)
