@@ -1,3 +1,7 @@
+[🢀 Back to Previous Page](./softwaredev_content_index.md)
+
+* * *
+
 # Before Class Assignments :
 
 > ## TO DO : Please watch these videos on Youtube and answer some questions related to the contents of the video clips.
@@ -50,3 +54,9 @@
 #### Q6) Which Virtual Hard Disk type and which storage allocation scheme was chosen?
 #### Q7) In addition to Ubuntu, which Linux distro was also chosen to create a VM?
 #### Q8) Which Linux command was used to check the IP address of the Linux VM?
+
+
+* * *
+
+
+[🢀 Back to Previous Page](./softwaredev_content_index.md)
