@@ -1,7 +1,3 @@
-[🢂 (010123131) Software Development Practice Content](./https://aingthawan.github.io/softwaredev_content_index.html)
-
-* * *
-
 # Before Class Assignments :
 
 > ## TO DO : Please watch these videos on Youtube and answer some questions related to the contents of the video clips.
@@ -57,6 +53,3 @@
 
 
 * * *
-
-
-[🢂 (010123131) Software Development Practice Content](./https://aingthawan.github.io/softwaredev_content_index.html)
