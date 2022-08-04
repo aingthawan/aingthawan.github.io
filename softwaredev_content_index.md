@@ -14,3 +14,6 @@ This page will be an index for work blog on this subject.
 - Week 1
     - [Linux with WSl](./week1_wsl.md)
     - [Linux with Virtual Machine](./week1_vm.md)
+- Week 2 **{ HOLIDAY }**
+- Week 3
+    - [Before Class Assignments](./SoftDev1/Week3/beforeClass_Assignment.md)
