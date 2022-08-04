@@ -35,6 +35,7 @@
 
 * * *
 
+<br/>
 
 ### 2) Video: You need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows) (~28 Min)
 
@@ -82,5 +83,6 @@
 	- $ ip add
 	- then looking for " inet " 
 
+<br/>
 
 * * *
