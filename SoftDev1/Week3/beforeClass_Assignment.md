@@ -42,42 +42,42 @@
 <iframe width="500" height="260" src="https://www.youtube.com/embed/wX75Z-4MEoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Q1) Explain the difference between Type 1 and Type2 Hypervisors.
+#### Q1) Explain the difference between Type 1 and Type2 Hypervisors.
 
 	- They basically done the same jobs. That is create a virtual machine of an OS.
 	- For Type one, Will be instlled directly on hardware and control over Type two.
 	- For type two, Permission for using hardware resorce needed to be accept by Type one.
 
-Q2) According to the video, explain why you should learn Virtual Machines (VMs).
+#### Q2) According to the video, explain why you should learn Virtual Machines (VMs).
 
 	- Good for learn hacking, its more secure!
 	- For try using diffrent OS.
 	- For experimenting without breaking your main OS.
 
-Q3) Which OS was chosen as the host OS to install and run VMs?
+#### Q3) Which OS was chosen as the host OS to install and run VMs?
 
 	- Microsoft Winodows OS
 
-Q4) Which versions and which file types of Ubuntu images were downloaded for creating VMs?
+#### Q4) Which versions and which file types of Ubuntu images were downloaded for creating VMs?
 
 	- File type for OS installation is .iso file.
 	- The Ubuntu's version is 20.04.1
 
-Q5) Which Hypervisor software was used to create and play with Ubuntu VMs?
+#### Q5) Which Hypervisor software was used to create and play with Ubuntu VMs?
 
 	- VirtualBox
 
-Q6) Which Virtual Hard Disk type and which storage allocation scheme was chosen?
+#### Q6) Which Virtual Hard Disk type and which storage allocation scheme was chosen?
 
 	- He choose VDI (VirtualBox Disk IMage) type Virtual hard disk.
 	- And storage allocation scheme is Dynamically allocation, 
 	  Maybe a bit lower performance but VMs didn't need to take all 10 GB storage at onece. 
 
-Q7) In addition to Ubuntu, which Linux distro was also chosen to create a VM?
+#### Q7) In addition to Ubuntu, which Linux distro was also chosen to create a VM?
 
 	- Kali Linux 2020.4
 
-Q8) Which Linux command was used to check the IP address of the Linux VM?
+#### Q8) Which Linux command was used to check the IP address of the Linux VM?
 
 	- $ ip add
 	- then looking for " inet " 
