@@ -9,7 +9,7 @@
 
 #### Q1) How did Chuck (the author of the videos) introduce Linux and other computer skills to his two kids?
 
-	- Getting his  kids a Raspberry Pi 4
+	- Getting his kids a Raspberry Pi 4
 	- Install Raspbian OS on the SBC
 	- Precessed to do a Basic HTML web server	
 
@@ -19,7 +19,8 @@
 	- Try using Microsoft AZURE for hosting your UBUNTU Server.
 	- Run Linux on your Windows OS device.
 		> Enable service on PowerShell.
-		> Then install Linux package directly from Microsoft Store.
+		> Then install Linux package directly 
+		  from Microsoft Store.
 
 #### Q3) Which Ubuntu package has the author installed on his Ubuntu machine and which system service was enabled?
 
@@ -35,7 +36,7 @@
 
 * * *
 
-<br/>
+<br/><br/>
 
 ### 2) Video: You need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows) (~28 Min)
 
@@ -83,6 +84,6 @@
 	- $ ip add
 	- then looking for " inet " 
 
-<br/>
+<br/><br/>
 
 * * *
