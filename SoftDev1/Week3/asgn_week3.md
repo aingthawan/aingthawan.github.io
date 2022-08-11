@@ -125,5 +125,20 @@ make
 > - libtool
 > - pkg-config
 > - automake
+> - etc....
+>
+> ```console
+> # UPDATE AND INSTALL I'VE DONE
+> sudo apt install update
+> sudo apt-get update
+> sudo apt-get upgrade
+> sudo apt install automake
+> sudo apt install intltool
+> sudo apt install libtool
+> sudo apt-get install libglib2.0-dev
+> sudo apt-get -y install mingw-w64 #Compiler
+> sudo apt install g++
+> sudo apt-get install libgtk-3-dev
+> ```
 
 [<<<BACK](./)
