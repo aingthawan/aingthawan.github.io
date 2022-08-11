@@ -23,12 +23,12 @@ Write a bash script that automates the following tasks in sequence.
 
 #### **How did I done mine** 
 
-1) I already make a folder "/Documents/sigsys_week3" for this assignment.
+1) I already make a folder "/Documents/dev_week3" for this assignment.
 and start creating bash script here. Text editor I'm using NANO.
 
 2) Start Coding, making directory for downloading resource and move to that directory.
 ```console
-mkdir -p $HOME/Documents/sigsys_week3/resource && cd $HOME/Documents/sigsys_week3/resource/
+mkdir -p $HOME/Documents/dev_week3/resource && cd $HOME/Documents/dev_week3/resource/
 ```
 
 3) Assign variable URL as geany site
@@ -73,3 +73,57 @@ cd geany-1.38
 make
 ```
 
+* * *
+
+#### Full code
+
+```console
+#!/bin/bash
+Blue='\033[0;34m'
+Purple='\033[0;35m'
+
+echo -e "${Blue} SW DEV. PRAC."
+echo "Week3 Assignment"
+
+sleep 1
+mkdir -p $HOME/Documents/dev_week3/resource && cd $HOME/Documents/dev_week3/resource/
+URL="https://download.geany.org"
+
+echo -e "${Purple} 1) Downloading Source Code"
+wget -c "${URL}/geany-1.38.tar.gz"
+
+echo -e "${Blue} 2) Downloading Public Key"
+wget -c "${URL}/colombanw-pubkey.txt"
+
+echo -e "${Purple} 3) Downloading GPG Signature file"
+wget -c "${URL}/geany-1.38.tar.gz.sig"
+
+echo -e "${Blue} 4) Verifying GPG Signature"
+gpg --import < colombanw-pubkey.txt
+gpg --verify geany-1.38.tar.gz.sig geany-1.38.tar.gz
+
+echo -e "${Purple} 5) Extracting Scource Code to Sub Folder"
+sleep 1
+tar -xf geany-1.38.tar.gz 
+
+echo -e "${Blue} 6) Building Source Code"
+cd geany-1.38
+./autogen.sh
+
+make
+
+```
+
+* * *
+
+#### REMARKs Problem
+![image](https://user-images.githubusercontent.com/109336369/184209414-47b1a24c-2c5b-4771-a913-f8ce7b93532c.png)
+
+> In order to complete Source Code Building Process, This will require some specific package to be install.
+> - intltool 
+> - glib
+> - libtool
+> - pkg-config
+> - automake
+
+[<<<BACK](./)
