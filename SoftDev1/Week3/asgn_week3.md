@@ -1,6 +1,5 @@
-### Assignment Week 3
 # Automates Bash Script!
-
+###### Week 3's Assignment
 * * *
 
 #### **Assignment Requirements**
@@ -22,6 +21,8 @@ Write a bash script that automates the following tasks in sequence.
 * * *
 
 #### **How did I done mine** 
+
+> Remark : I'm working on this project on VMware with UBUNTU Linux OS
 
 1) I already make a folder "/Documents/dev_week3" for this assignment.
 and start creating bash script here. Text editor I'm using NANO.
