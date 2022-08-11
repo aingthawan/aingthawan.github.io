@@ -76,6 +76,7 @@ make
 * * *
 
 #### Full code
+[-->> Finished Full .sh Source Code.](./https://github.com/aingthawan/aingthawan.github.io/tree/main/SoftDev1/Week3/week3_resource)
 
 ```console
 #!/bin/bash
@@ -141,4 +142,3 @@ make
 > sudo apt-get install libgtk-3-dev
 > ```
 
-[<<--BACK](../)
