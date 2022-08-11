@@ -76,8 +76,7 @@ make
 
 * * *
 
-#### Full code
-[-->> Finished Full .sh Source Code.](./https://github.com/aingthawan/aingthawan.github.io/tree/main/SoftDev1/Week3/week3_resource)
+#### Full week3.sh code
 
 ```console
 #!/bin/bash
