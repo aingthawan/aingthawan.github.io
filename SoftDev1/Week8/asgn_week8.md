@@ -55,7 +55,8 @@ delay(10);
 
 - #### Step 2. The position of the ON LED should be moved to the next in a circular manner in a fixed time interval and then repeat Step 2.
 
-	- Void loop,
+	- Void loop
+	
 ```C
 void  loop()  {
 
