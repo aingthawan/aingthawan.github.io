@@ -18,4 +18,4 @@ This page will be an index for work blog on this subject.
     - [Before Class Assignments](./SoftDev1/Week3/beforeClass_Assignment.md)
     - [Assignment : Basic Automates Bash Script, Installing GEANY](./SoftDev1/Week3/asgn_week3.md)
 - Week 8
-    - [Underconstruction]
+    - [C Programming : ARDUINO!](./SoftDev1/Week8/asgn_week8.md)
