@@ -295,6 +295,6 @@ void loop() {
 }
 ```
 
-### [---->>>> Link to WOKWI : LED Pattern D]([https://wokwi.com/projects/342313273993986643](https://wokwi.com/projects/342313288325923412](https://wokwi.com/projects/342313288325923412))
+### [---->>>> Link to WOKWI : LED Pattern D](https://wokwi.com/projects/342313288325923412)
 
 ___
