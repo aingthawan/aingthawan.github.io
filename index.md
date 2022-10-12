@@ -7,7 +7,7 @@ at ***King Mongkut's University of Technology North Bangkok (KMUTNB)***, Thailan
 
 ### Bio
 
-- Date of Birth : 16 September 2001 [Age : 20 Yrs]
+- day of Happy Birthday : 16 September, 2001 
 - Living : Bangkok, Thailand 
 
 
